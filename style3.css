@@ -119,8 +119,6 @@ img{
  
 a{
   padding: 15px;
-  color: #fff;
-  text-decoration: none;
 }
 
 .desbravadores{
@@ -136,39 +134,3 @@ a{
     font-size: 220%;
 }
  
-body{
-    background-image: url(./imagem\ campori.jpg);
-    
-}
-
-.clube{
-    color: #fff;
-}
-
-.texto-inicio{
-    color: #f32727;
-    font-family: 'Mulish', sans-serif;
-}
-
-.fundo-home{
-    text-align: center;
-    margin-top: 80px;
-    font-size: 20px;
-}
-
-.junte{
-    background-color: #f32727;
-    color: #fff;
-    border: none;
-    border-radius: 10px;
-    padding: 20px;
-    margin: 20px; 
-    font-size: 20px;
-    cursor: pointer;
-    
-}
-.junte:hover{
-    
-    background-color: #cd3030;
-}
-
