@@ -120,3 +120,35 @@ img{
 a{
   padding: 15px;
 }
+
+.desbravadores{
+    text-align: center;
+    color: #fff;
+    border: #464646;
+    
+}
+
+.desbravadores-adventure{
+    text-align: absolute;
+    color: #f32727;
+    font-size: 220%;
+}
+ 
+body{
+    background-color: #e69326;
+}
+
+.clube{
+    color: #fff;
+}
+
+.texto-inicio{
+    color: #f32727;
+    font-family: 'Mulish', sans-serif;
+}
+
+.fundo-home{
+    text-align: center;
+    margin-top: 80px;
+    font-size: 40px;
+}
