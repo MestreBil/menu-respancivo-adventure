@@ -135,7 +135,8 @@ a{
 }
  
 body{
-    background-color: #e69326;
+    background-image: url(./imagem\ campori.jpg);
+    
 }
 
 .clube{
@@ -150,5 +151,5 @@ body{
 .fundo-home{
     text-align: center;
     margin-top: 80px;
-    font-size: 40px;
+    font-size: 20px;
 }
