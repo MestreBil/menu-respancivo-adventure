@@ -134,5 +134,28 @@ a{
     font-size: 220%;
 }
  
+h1{
+    margin: 10px;
+    text-align: center;
+    color: black;
+}
 
+p{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}
 
+body{
+    background:rgb(225, 126, 26) ;
+}
+
+ul{
+    align-items: center;
+    list-style: inside;
+}
+li{
+    align-items: center;
+    text-align: center;
+    list-style: inside;
+}

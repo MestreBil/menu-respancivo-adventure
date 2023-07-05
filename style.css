@@ -2,7 +2,7 @@
 * {
     padding: 0;
     margin: 0;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 
 header {
@@ -118,10 +118,12 @@ img{
 }
  
 a{
-  padding: 15px;
+
   color: #fff;
   text-decoration: none;
 }
+
+
 
 .desbravadores{
     text-align: center;
@@ -172,3 +174,6 @@ body{
     background-color: #cd3030;
 }
 
+.nav-link{
+    padding: 15px;
+}
