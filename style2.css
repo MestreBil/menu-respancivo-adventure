@@ -159,3 +159,7 @@ li{
     text-align: center;
     list-style: inside;
 }
+
+.nav-item{
+    list-style: none;
+}
